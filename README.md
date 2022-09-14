@@ -10,7 +10,20 @@ creater: [Yishan Liu](https://www.linkedin.com/in/yl95/)
 - this collection includes the data I used, my paper, and my python implementaiton.
 - I am looking forward for your feedbacks, thank you!
 
-## methodology
+## compare 5 RNN encoder-decoders and their non encoder-decoder versions
+- the 5 RNN encoder-decoders are:
+   1. GRU encoder-decoder
+   2. bidirectional GRU encoder-decoder
+   3. CNN-GRU encoder-decoder
+   4. convLSTM encoder-decoder
+   5. bidirectoinal convLSTM encoder-decoder
 
-1. compare 5 RNN encoder-decoders and their non encoder-decoder versions
-   hetet
+
+- the 5 non encoder-decoders are:
+   1. GRU
+   2. bidirectional GRU
+   3. CNN-GRU
+   4. convLSTM
+   5. bidirectoinal convLSTM
+
+## visualised result from the best performing model:
