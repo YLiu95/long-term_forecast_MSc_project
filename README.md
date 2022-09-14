@@ -27,3 +27,4 @@ creater: [Yishan Liu](https://www.linkedin.com/in/yl95/)
    5. bidirectoinal convLSTM
 
 ## visualised result from the best performing model:
+[chart](https://drive.google.com/uc?export=view&id=11PT7Jr7XwnOuxRF15F0IDw-nIdd1A3yM)
