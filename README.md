@@ -9,3 +9,7 @@ creater: [Yishan Liu](https://www.linkedin.com/in/yl95/)
 - this is a collection of the materials I used for my MSc proejct on long term financial time series forecasting with deep learning.
 - this collection includes the data I used, my paper, and my python implementaiton.
 - I am looking forward for your feedbacks, thank you!
+
+## methodology
+
+1. compare 5 RNN encoder-decoders
