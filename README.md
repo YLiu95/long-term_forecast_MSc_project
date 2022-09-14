@@ -13,4 +13,4 @@ creater: [Yishan Liu](https://www.linkedin.com/in/yl95/)
 ## methodology
 
 1. compare 5 RNN encoder-decoders and their non encoder-decoder versions
-  - hetet
+   hetet
