@@ -27,4 +27,22 @@ creater: [Yishan Liu](https://www.linkedin.com/in/yl95/)
    5. bidirectoinal convLSTM
 
 ## visualised result from the best performing model:
-[chart](https://drive.google.com/uc?export=view&id=11PT7Jr7XwnOuxRF15F0IDw-nIdd1A3yM)
+forecasting result from bidirectional GRU encoder-decoder:
+![bidirectional gru forecasting result](https://user-images.githubusercontent.com/82934216/190156726-e5898a0f-f0d8-42bf-8c70-f411d7687b19.png)
+- evaluation metrics:
+    - train mse: 0.0361340157687664 
+    - test mse:  0.017722204327583313 
+    - train rmse: 0.17656706273555756 
+    - test rmse:  0.12243817746639252
+
+- other statistics - means:
+    - training data mean:    8.841544827586207 
+    - train prediction mean: 8.791829 
+    - testing data mean:     8.717213409961685 
+    - test prediction mean:  8.674898 
+
+- other statistics - standard deviations:
+    - training data standard deviation:    0.17639548961572413 
+    - train prediction standard deviation: 0.0813758 
+    - testing data standard deviation:     0.14175250034034664 
+    - test prediction standard deviation:  0.06592484
