@@ -17,9 +17,10 @@ creater: [Yishan Liu](https://www.linkedin.com/in/yl95/)
    2. bidirectional GRU encoder-decoder
    3. CNN-GRU encoder-decoder
    4. convLSTM encoder-decoder
-   5. **bidirectional convLSTM encoder-decoder** (**I created this new architecture**)
+   5. **bidirectional convLSTM encoder-decoder**
 
-$${\color{red} **bidirectional \space convLSTM \space encoder-decoder**}$$
+$${\color{red} **I \space created \space a \space new \space architecture: \space bidirectional \space convLSTM \space encoder-decoder**}$$
+
 
 - the 5 non encoder-decoders are:
    1. GRU
@@ -29,7 +30,7 @@ $${\color{red} **bidirectional \space convLSTM \space encoder-decoder**}$$
    5. bidirectoinal convLSTM
 
 ## visualised result from the best performing model:
-forecasting result from bidirectional GRU encoder-decoder:
+
 ![bidirectional gru forecasting result](https://user-images.githubusercontent.com/82934216/190156726-e5898a0f-f0d8-42bf-8c70-f411d7687b19.png)
 - evaluation metrics:
     - train mse: 0.0361340157687664 
