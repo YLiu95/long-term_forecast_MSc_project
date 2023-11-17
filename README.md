@@ -19,6 +19,8 @@ creater: [Yishan Liu](https://www.linkedin.com/in/yl95/)
    4. convLSTM encoder-decoder
    5. **bidirectional convLSTM encoder-decoder** (**I created this new architecture**)
 
+$${\color{red} **bidirectional \space convLSTM \space encoder-decoder**}$$
+
 - the 5 non encoder-decoders are:
    1. GRU
    2. bidirectional GRU
