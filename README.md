@@ -1,4 +1,5 @@
-# MSc project: Use RNN encoder-decoders to multi-step (30-days) forecast the price of sterling in Chinese yuan
+# MSc project: Use Large Artificial Neural Nets to Extract Semantic Signals for Long-term Sequential Forecasting
+## multi-step (30-days) forecast the price of sterling in Chinese yuan
 
 [repository on GitHub](https://github.com/YLiu95/multi-step_forecast_MSc_project)
 
@@ -16,8 +17,7 @@ creater: [Yishan Liu](https://www.linkedin.com/in/yl95/)
    2. bidirectional GRU encoder-decoder
    3. CNN-GRU encoder-decoder
    4. convLSTM encoder-decoder
-   5. bidirectoinal convLSTM encoder-decoder
-
+   5. **bidirectional convLSTM encoder-decoder** (**I created this new architecture**)
 
 - the 5 non encoder-decoders are:
    1. GRU
